@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k0en11
-- 👀 I’m interested in Industry 4.0 and cibersecurity
-- 🌱 I’m currently learning Digital Transformation in the Industry, doing a postgraduate/specialization on it.
+- 👀 I’m interested in Industry 4.0, software development and cibersecurity
+- 🌱 I’m currently working at a company as a Firmware Developer.
 
 <!---
 k0en11/k0en11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
